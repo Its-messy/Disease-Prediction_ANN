@@ -1,1 +1,0 @@
-# Diseases prediction using ANN on streamlit
